@@ -1,0 +1,292 @@
+
+*{
+
+margin:0;
+
+}
+
+.banner{
+
+display:flex;
+gap:30px;
+align-items: center;
+justify-content: space-around;
+
+background-color:rgba(229, 84, 115, 0.10);
+padding: 50px;
+
+
+
+}
+
+.flower-photo{
+
+    max-width: 500px;
+}
+
+.banner-info{
+
+max-width: 500px;
+
+}
+
+.banner-title{
+
+
+font-size: 70px;
+font-weight: bolder;
+margin-bottom: 15px;
+
+}
+.banner-desc{
+font-size: 1.2rem;
+margin-top: 32px;
+margin-bottom: 32px;
+
+}
+
+.btn{
+
+border:none;
+border-radius: 10px;
+padding: 20px 43px;
+background-color: #E55473;
+color:white;
+
+
+}
+
+.featured-flower-container{
+
+background-color: #FFF;
+
+
+}
+
+.tree-flowers{
+
+display: flex;
+gap:60px;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.featured-flower{
+
+
+text-align: center;
+margin-top: 100px;
+
+}
+.featured-title{
+
+margin-bottom: 30px;
+font-weight: bolder;
+font-size: 3rem;
+
+}
+.featured-desc{
+
+margin-bottom: 20px;
+font-size: 1.3rem;
+
+}
+.pink-1{
+width:200px;
+height:200px;
+border:1px solid gray;
+border-radius: 50%;
+
+padding:50px;
+background-color:blueviolet ;
+
+
+}
+
+.pink-title{
+
+margin-left: 80px;
+margin-top: 20px;
+font-size: 1.3rem;
+
+}
+.pink-2{
+    width:200px;
+    height:200px;
+    border:1px solid gray;
+    border-radius: 50%;
+    
+    padding:50px;
+    background-color:aqua ;
+    
+    
+    }
+    .pink-3{
+        width:200px;
+        height:200px;
+        border:1px solid gray;
+        border-radius: 50%;
+        
+        padding:50px;
+        background-color:cadetblue;
+        
+        
+        }
+
+        .advertisement-container{
+            margin-top: 100px;
+            padding:130px 60px 120px 150px;
+
+display: flex;
+gap:30px;
+align-items: center;
+justify-content: space-around;
+background-color: rgba(229, 84, 115, 0.05);
+
+
+        }
+
+        .advertisement-title{
+
+font-size: 70px;
+font-weight: 700;
+margin-bottom: 40px;
+
+
+        }
+        .advertisement-desc{
+
+margin-bottom: 30px;
+font-size: 1.3rem;
+
+        }
+.span-adv-title{
+
+color: #E55473;
+
+}
+
+.instagram-container{
+
+margin-top: 120px;
+
+}
+
+.instagram-content{
+
+text-align: center;
+margin-bottom: 40px;
+
+}
+
+.instagram-photo{
+
+display: flex;
+gap:30px;
+justify-content:center;
+
+
+}
+.insta-title{
+
+margin-bottom: 20px;
+font-size: 3rem;
+font-weight: bolder;
+
+}
+.insta-desc{
+
+margin-bottom: 30px;
+font-size: 1.3rem;
+
+
+}
+
+.offer-container{
+    margin-top: 150px;
+height: 50vh;
+background-image: url('./Rectangle\ 9.png');
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+.offer-content{
+
+height:50vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+.offer-title{
+
+    font-size: 65px;
+    margin-bottom: 20px;
+    font-weight: 700;
+
+
+}
+
+.offer-desc{
+
+    margin-bottom: 30px;
+   
+    font-size: 1.2rem;
+}
+form{
+margin-top: 30px;
+    display: flex;
+    gap:20px;
+}
+input{
+
+
+padding: 20px;
+background-color: #FFF;
+width:690px;
+
+
+
+}
+
+footer{
+margin-top: 150px;
+background-color: black;
+color:white;
+padding: 140px;
+
+
+}
+.footer-container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.span-footer{
+color:#E55473;
+
+}
+
+.footer-title{
+
+font-size: 60px;
+margin-bottom: 20px;
+
+}
+
+.footer-desc{
+
+margin-bottom: 20px;
+font-size: 1.3rem;
+
+}
