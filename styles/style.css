@@ -14,13 +14,28 @@ justify-content: space-around;
 
 background-color:rgba(229, 84, 115, 0.10);
 padding: 50px;
+background-image: url('./pngwing\ 10.png');
+background-repeat: no-repeat;
+background-size: contain;
+background-position: right bottom;
+
+
 
 
 
 }
+.banner-photo{
+
+    margin-bottom: 0px;
+    padding-bottom: 0;
+    display: block;
+    
+}
 
 .flower-photo{
 
+   
+   
     max-width: 500px;
 }
 
@@ -97,7 +112,7 @@ font-size: 1.3rem;
 width:200px;
 height:200px;
 border:1px solid gray;
-border-radius: 50%;
+border-radius: 250px 250px 0px 0px;
 
 padding:50px;
 background-color:blueviolet ;
@@ -116,7 +131,8 @@ font-size: 1.3rem;
     width:200px;
     height:200px;
     border:1px solid gray;
-    border-radius: 50%;
+    border-radius:  250px 250px 0px 0px;
+    
     
     padding:50px;
     background-color:aqua ;
@@ -127,7 +143,8 @@ font-size: 1.3rem;
         width:200px;
         height:200px;
         border:1px solid gray;
-        border-radius: 50%;
+        border-radius:  250px 250px 0px 0px;
+
         
         padding:50px;
         background-color:cadetblue;
